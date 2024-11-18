@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "PP Eiko Medium";
+    src: url("https://db.onlinewebfonts.com/t/6b2d532d2a62dade858748f086e69043.eot");
+    src: url("https://db.onlinewebfonts.com/t/6b2d532d2a62dade858748f086e69043.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/6b2d532d2a62dade858748f086e69043.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/6b2d532d2a62dade858748f086e69043.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/6b2d532d2a62dade858748f086e69043.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/6b2d532d2a62dade858748f086e69043.svg#PP Eiko Medium")format("svg");
+}
+
+
+@font-face {
+    font-family: "Centra No2 Bold";
+    src: url("https://db.onlinewebfonts.com/t/1d8aa3902ed39929de0912f0ff2bb89f.eot");
+    src: url("https://db.onlinewebfonts.com/t/1d8aa3902ed39929de0912f0ff2bb89f.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/1d8aa3902ed39929de0912f0ff2bb89f.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/1d8aa3902ed39929de0912f0ff2bb89f.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/1d8aa3902ed39929de0912f0ff2bb89f.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/1d8aa3902ed39929de0912f0ff2bb89f.svg#Centra No2 Bold")format("svg");
+}
+
+@font-face {
+    font-family: "Montserrat Light";
+    src: url("https://db.onlinewebfonts.com/t/029177df870cce2b384f0610a6e1f82a.eot");
+    src: url("https://db.onlinewebfonts.com/t/029177df870cce2b384f0610a6e1f82a.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/029177df870cce2b384f0610a6e1f82a.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/029177df870cce2b384f0610a6e1f82a.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/029177df870cce2b384f0610a6e1f82a.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/029177df870cce2b384f0610a6e1f82a.svg#Montserrat Light")format("svg");
+}
+
+@font-face {
+    font-family: "Cera PRO Regular";
+    src: url("https://db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.eot");
+    src: url("https://db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.svg#Cera PRO Regular")format("svg");
+}
